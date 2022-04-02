@@ -33,10 +33,17 @@
     "core-util-is": "^1.0.2",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
+<<<<<<< HEAD
     "express": "^4.17.3",
     "got": "^11.6.0",
     "mongoose": "^5.13.14",
     "request": "^2.65.0",
     "sneaks-api": "^1.2.3"
+=======
+    "express": "^4.17.1",
+    "got": "^11.6.0",
+    "mongoose": "^5.10.3",
+    "request": "^2.65.0"
+>>>>>>> ba3fa9a2a7cb46e12b060cad2497ca9665f39588
   }
 }
